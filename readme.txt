@@ -20,3 +20,6 @@ git status 内容解读：
 1.git checkout --readme.txt
    ·没有提交到暂存区，回到版本库原样
    ·回退到暂存区后，修改前的状态
+   
+   test 2
+  
