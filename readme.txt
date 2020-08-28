@@ -23,5 +23,8 @@ git status 内容解读：
    ·没有提交到暂存区，回到版本库原样
    ·回退到暂存区后，修改前的状态
  2.add √ commit×
-  
+  git reset HEAD readme.txt
+      清除暂存区
+  git checkout -- readme.txt
+      清除工作区
 
